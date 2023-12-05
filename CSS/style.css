@@ -1,0 +1,143 @@
+html {
+
+    background-image:url(https://indiehoy.com/wp-content/uploads/2020/05/radiohead-logo.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.centered {
+
+    text-align: center;
+}
+
+.white {
+
+    color: white;
+    padding-left: 15px;
+}
+
+.redBackground {
+
+    background-color: rgba(242, 10, 10, 0.5);
+
+}
+
+.greyBackground {
+    background-color: rgba(55, 55, 55, 0.9)
+}
+
+
+.topnav {
+    background-color: #ad0808;
+    overflow: hidden;
+  }
+  
+
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+ 
+  .topnav a.active {
+    background-color: #620505;
+    color: white;
+  }
+
+  .title {
+    font-size: 5pc;
+    padding: 1pc;
+  }
+
+  .largeMargin {
+
+    padding-block: 7pt;
+    margin: 15pc;
+  }
+
+  .redBorder {
+
+    border-width: 4pt;
+    border-style: solid;
+    border-color: rgba(242, 10, 10, 0.5);
+
+  }
+
+  .leftParagraph {
+
+    padding-block: 7pt;
+    border-width: 4pt;
+    border-style: solid;
+    border-color: rgba(242, 10, 10, 0.5);
+  }
+
+  .copyright {
+
+    text-align: center;
+    color: white;
+    position: fixed;bottom: 0;
+  }
+
+.margintop {
+
+margin-top:3pc;
+
+}
+
+.honey {
+
+  background-color: rgba(249,167,3,255)
+
+}
+
+.imageEdit {
+
+max-width: 20%;
+border: black;
+border-style: double;
+
+}
+
+.im1 {
+
+position: relative; left: 17px; bottom: 100px;
+
+}
+
+.im2 {
+
+position: relative; left: 18pc; bottom: 150px;
+
+}
+
+.im3{
+
+position: relative; left: 35pc;
+
+}
+
+.albumCover{
+
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+.sidexside {
+  display: inline-block;
+  padding: 1rem 1rem;
+  vertical-align: middle;
+}
