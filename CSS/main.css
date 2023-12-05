@@ -98,7 +98,13 @@ margin-top:3pc;
 
 .honey {
 
-  background-color: rgba(249,167,3,255)
+  background-color: rgba(249,167,3,255);
+
+}
+
+.bends {
+
+  background-color: rgba(207,12,12,255);
 
 }
 
@@ -133,11 +139,13 @@ position: relative; left: 35pc;
 display: block;
 margin-left: auto;
 margin-right: auto;
+width: 500px;
+height: 500px;
 
 }
 
 .sidexside {
   display: inline-block;
-  padding: 1rem 1rem;
+  padding: 1pc;
   vertical-align: middle;
 }
