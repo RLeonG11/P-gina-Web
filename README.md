@@ -17,7 +17,5 @@ A lo largo de la realización de este proyecto me he topado con varias dificulta
 
 5.-) En el apartado de discografía quería separar la lista de canciones de cada album en dos columnas, las cuales fueron dificiles de hacer y centrar adecuadamente. Tuve que recurrir a una estructura "padre-hijo" para conseguir el efecto deseado.
 
-6.-)
-
 ## Conclusiones
 La realización de este proyecto me ha ayudado no solo a aprender sobre los lenguajes de programación y las herramientas necesarias para realizar una página web, sino también a desarrollar un proyecto de manera autónoma y a realizar un trabajo de indagación importante. He aprendido a estructurar el proyecto en diferentes fases de desarrollo poniendo énfasis en la fase de planificación, pues intentar realizar una página web sobre la marcha sin haberse parado previamente a pensar sobre su estructura, elementos y funcionalidades resulta en unos cuantos archivos caóticos y no se obtiene un resultado satisfactorio. Además, he adquirido habilidades técnicas que me facilitarán la realización de futuros proyectos más adelante en la carrera. En definitiva, este trabajo me ha servido para aplicar los contenidos de clase en una situación real y a adaptarme a las dificultades que se me presentaban de manera autónoma.
