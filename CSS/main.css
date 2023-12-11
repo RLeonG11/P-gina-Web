@@ -165,3 +165,10 @@ height: 500px;
   padding: 1pc;
   vertical-align: middle;
 }
+
+.centerImage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
